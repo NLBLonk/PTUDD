@@ -1,0 +1,7 @@
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab3\Lab3.3_GhiXML\bin\Debug\Lab3.3_GhiXML.exe.config
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab3\Lab3.3_GhiXML\bin\Debug\Lab3.3_GhiXML.exe
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab3\Lab3.3_GhiXML\bin\Debug\Lab3.3_GhiXML.pdb
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab3\Lab3.3_GhiXML\obj\Debug\Lab3.3_GhiXML.csproj.AssemblyReference.cache
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab3\Lab3.3_GhiXML\obj\Debug\Lab3.3_GhiXML.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab3\Lab3.3_GhiXML\obj\Debug\Lab3.3_GhiXML.exe
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab3\Lab3.3_GhiXML\obj\Debug\Lab3.3_GhiXML.pdb

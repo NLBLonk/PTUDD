@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\2312678_NLBLong_ThongTinSoXo\ThongTinSoXo\bin\Debug\ThongTinSoXo.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_ThongTinSoXo\ThongTinSoXo\bin\Debug\ThongTinSoXo.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_ThongTinSoXo\ThongTinSoXo\bin\Debug\ThongTinSoXo.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_ThongTinSoXo\ThongTinSoXo\obj\Debug\ThongTinSoXo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_ThongTinSoXo\ThongTinSoXo\obj\Debug\ThongTinSoXo.Properties.Resources.resources
+C:\Users\Admin\Desktop\2312678_NLBLong_ThongTinSoXo\ThongTinSoXo\obj\Debug\ThongTinSoXo.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_ThongTinSoXo\ThongTinSoXo\obj\Debug\ThongTinSoXo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_ThongTinSoXo\ThongTinSoXo\obj\Debug\ThongTinSoXo.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_ThongTinSoXo\ThongTinSoXo\obj\Debug\ThongTinSoXo.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_ThongTinSoXo\ThongTinSoXo\obj\Debug\ThongTinSoXo.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_ThongTinSoXo\ThongTinSoXo\obj\Debug\ThongTinSoXo.frmChinh.resources

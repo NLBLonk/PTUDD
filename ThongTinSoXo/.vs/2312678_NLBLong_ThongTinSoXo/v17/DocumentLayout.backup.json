@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1497CBB-D8AA-4FF1-828E-904CDBE033EF}|ThongTinSoXo\\ThongTinSoXo.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\thongtinsoxo\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1497CBB-D8AA-4FF1-828E-904CDBE033EF}|ThongTinSoXo\\ThongTinSoXo.csproj|solutionrelative:thongtinsoxo\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1497CBB-D8AA-4FF1-828E-904CDBE033EF}|ThongTinSoXo\\ThongTinSoXo.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\thongtinsoxo\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1497CBB-D8AA-4FF1-828E-904CDBE033EF}|ThongTinSoXo\\ThongTinSoXo.csproj|solutionrelative:thongtinsoxo\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1497CBB-D8AA-4FF1-828E-904CDBE033EF}|ThongTinSoXo\\ThongTinSoXo.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\thongtinsoxo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1497CBB-D8AA-4FF1-828E-904CDBE033EF}|ThongTinSoXo\\ThongTinSoXo.csproj|solutionrelative:thongtinsoxo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1497CBB-D8AA-4FF1-828E-904CDBE033EF}|ThongTinSoXo\\ThongTinSoXo.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_thongtinsoxo\\thongtinsoxo\\soxoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1497CBB-D8AA-4FF1-828E-904CDBE033EF}|ThongTinSoXo\\ThongTinSoXo.csproj|solutionrelative:thongtinsoxo\\soxoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1497CBB-D8AA-4FF1-828E-904CDBE033EF}|ThongTinSoXo\\ThongTinSoXo.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\thongtinsoxo\\ketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1497CBB-D8AA-4FF1-828E-904CDBE033EF}|ThongTinSoXo\\ThongTinSoXo.csproj|solutionrelative:thongtinsoxo\\ketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1497CBB-D8AA-4FF1-828E-904CDBE033EF}|ThongTinSoXo\\ThongTinSoXo.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\thongtinsoxo\\frmchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1497CBB-D8AA-4FF1-828E-904CDBE033EF}|ThongTinSoXo\\ThongTinSoXo.csproj|solutionrelative:thongtinsoxo\\frmchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmChinh.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\ThongTinSoXo\\frmChinh.Designer.cs",
+              "RelativeDocumentMoniker": "ThongTinSoXo\\frmChinh.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\ThongTinSoXo\\frmChinh.Designer.cs",
+              "RelativeToolTip": "ThongTinSoXo\\frmChinh.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:30:19.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmChinh.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\ThongTinSoXo\\frmChinh.cs",
+              "RelativeDocumentMoniker": "ThongTinSoXo\\frmChinh.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\ThongTinSoXo\\frmChinh.cs",
+              "RelativeToolTip": "ThongTinSoXo\\frmChinh.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAA8wGoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:15:33.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoXoService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\ThongTinSoXo\\SoXoService.cs",
+              "RelativeDocumentMoniker": "ThongTinSoXo\\SoXoService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\ThongTinSoXo\\SoXoService.cs",
+              "RelativeToolTip": "ThongTinSoXo\\SoXoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:14:36.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KetQua.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\ThongTinSoXo\\KetQua.cs",
+              "RelativeDocumentMoniker": "ThongTinSoXo\\KetQua.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\ThongTinSoXo\\KetQua.cs",
+              "RelativeToolTip": "ThongTinSoXo\\KetQua.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:14:30.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\ThongTinSoXo\\Program.cs",
+              "RelativeDocumentMoniker": "ThongTinSoXo\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\ThongTinSoXo\\Program.cs",
+              "RelativeToolTip": "ThongTinSoXo\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:14:25.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmChinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\ThongTinSoXo\\frmChinh.cs",
+              "RelativeDocumentMoniker": "ThongTinSoXo\\frmChinh.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_ThongTinSoXo\\ThongTinSoXo\\frmChinh.cs [Design]",
+              "RelativeToolTip": "ThongTinSoXo\\frmChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:12:38.315Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

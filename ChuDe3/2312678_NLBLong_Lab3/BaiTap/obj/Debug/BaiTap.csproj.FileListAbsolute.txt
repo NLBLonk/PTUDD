@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\BaiTap\bin\Debug\BaiTap.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\BaiTap\bin\Debug\BaiTap.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\BaiTap\bin\Debug\BaiTap.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\BaiTap\obj\Debug\BaiTap.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\BaiTap\obj\Debug\BaiTap.FormTTSinhVien.resources
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\BaiTap\obj\Debug\BaiTap.Properties.Resources.resources
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\BaiTap\obj\Debug\BaiTap.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\BaiTap\obj\Debug\BaiTap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\BaiTap\obj\Debug\BaiTap.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\BaiTap\obj\Debug\BaiTap.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\BaiTap\obj\Debug\BaiTap.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\BaiTap\obj\Debug\BaiTap.FormTimKiem.resources

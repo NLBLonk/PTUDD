@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\2312678_NLBLong_Lab2\Lab2.4_CTQuanLyThongTinSVDonGian\bin\Debug\Lab2.4_CTQuanLyThongTinSVDonGian.exe.config
+\\Mac\Home\Desktop\2312678_NLBLong_Lab2\Lab2.4_CTQuanLyThongTinSVDonGian\bin\Debug\Lab2.4_CTQuanLyThongTinSVDonGian.exe
+\\Mac\Home\Desktop\2312678_NLBLong_Lab2\Lab2.4_CTQuanLyThongTinSVDonGian\bin\Debug\Lab2.4_CTQuanLyThongTinSVDonGian.pdb
+\\Mac\Home\Desktop\2312678_NLBLong_Lab2\Lab2.4_CTQuanLyThongTinSVDonGian\obj\Debug\Lab2.4_CTQuanLyThongTinSVDonGian.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\2312678_NLBLong_Lab2\Lab2.4_CTQuanLyThongTinSVDonGian\obj\Debug\Lab2._4_CTQuanLyThongTinSVDonGian.frmTTSinhVien.resources
+\\Mac\Home\Desktop\2312678_NLBLong_Lab2\Lab2.4_CTQuanLyThongTinSVDonGian\obj\Debug\Lab2._4_CTQuanLyThongTinSVDonGian.Properties.Resources.resources
+\\Mac\Home\Desktop\2312678_NLBLong_Lab2\Lab2.4_CTQuanLyThongTinSVDonGian\obj\Debug\Lab2.4_CTQuanLyThongTinSVDonGian.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\2312678_NLBLong_Lab2\Lab2.4_CTQuanLyThongTinSVDonGian\obj\Debug\Lab2.4_CTQuanLyThongTinSVDonGian.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\2312678_NLBLong_Lab2\Lab2.4_CTQuanLyThongTinSVDonGian\obj\Debug\Lab2.4_CTQuanLyThongTinSVDonGian.exe
+\\Mac\Home\Desktop\2312678_NLBLong_Lab2\Lab2.4_CTQuanLyThongTinSVDonGian\obj\Debug\Lab2.4_CTQuanLyThongTinSVDonGian.pdb

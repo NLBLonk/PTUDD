@@ -1,0 +1,7 @@
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab3\Lab3.3_DocXML\bin\Debug\Lab3.3_DocXML.exe.config
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab3\Lab3.3_DocXML\bin\Debug\Lab3.3_DocXML.exe
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab3\Lab3.3_DocXML\bin\Debug\Lab3.3_DocXML.pdb
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab3\Lab3.3_DocXML\obj\Debug\Lab3.3_DocXML.csproj.AssemblyReference.cache
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab3\Lab3.3_DocXML\obj\Debug\Lab3.3_DocXML.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab3\Lab3.3_DocXML\obj\Debug\Lab3.3_DocXML.exe
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab3\Lab3.3_DocXML\obj\Debug\Lab3.3_DocXML.pdb

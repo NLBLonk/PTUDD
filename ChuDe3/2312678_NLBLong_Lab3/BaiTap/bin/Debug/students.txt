@@ -1,0 +1,5 @@
+2312678|Nguyễn Lê Bảo|Long|CTK47A|25/08/2005|012345789|0965.678.452|03 Trần Khánh Dư, TP Đà Lạt|1|Lập trình mạng; Đồ án cơ sở
+2212680|Lê Văn|Nam|CTK46A|30/07/2004|012345681|0987.654.321|78 Lý Thường Kiệt, TP Hà Nội|1|Lập trình trên thiết bị di động; An toàn và bảo mật hệ thống
+2100009|Phạm Hoàng|Giang|CTK45B|15/11/2003|012345680|0912.345.678|22 Lê Duẩn, TP Hồ Chí Minh|1|Mạng máy tính; Hệ điều hành; Lập trình mạng
+2312789|Trần Thị|Trung|CTK47A|07/06/2005|012584765|0985.988.888|8B Bùi Thị Xuân, TP Đà Lạt|0|Lập trình mạng; Đồ án cơ sở; Phương pháp NCKH
+2312778|Lê Văn|Long|CTK47A|10/08/2005|012874569|0965.678.777|03 Trần Khánh Dư, TP Đà Lạt|1|Lập trình mạng; Đồ án cơ sở

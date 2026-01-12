@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThietKeForm\bin\Debug\2312678_BaiThietKeForm.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThietKeForm\bin\Debug\2312678_BaiThietKeForm.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThietKeForm\bin\Debug\2312678_BaiThietKeForm.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThietKeForm\obj\Debug\2312678_BaiThietKeForm.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThietKeForm\obj\Debug\_2312678_BaiThietKeForm.frmBai1.resources
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThietKeForm\obj\Debug\_2312678_BaiThietKeForm.frmChinh.resources
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThietKeForm\obj\Debug\_2312678_BaiThietKeForm.Properties.Resources.resources
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThietKeForm\obj\Debug\2312678_BaiThietKeForm.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThietKeForm\obj\Debug\2312678_BaiThietKeForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThietKeForm\obj\Debug\2312678_BaiThietKeForm.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThietKeForm\obj\Debug\2312678_BaiThietKeForm.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThietKeForm\obj\Debug\2312678_BaiThietKeForm.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThietKeForm\obj\Debug\_2312678_BaiThietKeForm.frmBai2.resources
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThietKeForm\obj\Debug\_2312678_BaiThietKeForm.frmBai3.resources
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThietKeForm\obj\Debug\_2312678_BaiThietKeForm.frmBai4.resources

@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThucHanhBuoi1\bin\Debug\2312678_BaiThucHanhBuoi1.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThucHanhBuoi1\bin\Debug\2312678_BaiThucHanhBuoi1.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThucHanhBuoi1\bin\Debug\2312678_BaiThucHanhBuoi1.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThucHanhBuoi1\obj\Debug\2312678_BaiThucHanhBuoi1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThucHanhBuoi1\obj\Debug\_2312678_BaiThucHanhBuoi1.frmDauTien.resources
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThucHanhBuoi1\obj\Debug\_2312678_BaiThucHanhBuoi1.Properties.Resources.resources
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThucHanhBuoi1\obj\Debug\2312678_BaiThucHanhBuoi1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThucHanhBuoi1\obj\Debug\2312678_BaiThucHanhBuoi1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThucHanhBuoi1\obj\Debug\2312678_BaiThucHanhBuoi1.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThucHanhBuoi1\obj\Debug\2312678_BaiThucHanhBuoi1.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_BaiTapWindowsForm\2312678_BaiThucHanhBuoi1\obj\Debug\2312678_BaiThucHanhBuoi1.exe.config
